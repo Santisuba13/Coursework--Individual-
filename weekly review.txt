@@ -4,7 +4,7 @@ WEEK 1- Reviewing the coursework and selecting subsystem:
 - A mobile application for society leaders to manage and operate societies
 
 WEEK 2- Analysis and Specify Software Quality Requirements 
-- For this task, Ive selected the "FR-SL-1: Management of Society" where I will be discussing its quality requirements.
+- For this task, Ive selected the FUnctional requirement "FR-SL-1: Management of Society" where I will be discussing its quality requirements.
   -Security and Privacy protection: 
   -Peformance:
   -Reliability:
