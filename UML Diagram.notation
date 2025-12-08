@@ -623,7 +623,7 @@
                 <layoutConstraint xmi:type="notation:Location" xmi:id="_Oam8ssxfEfCJjtfnNERNag" y="15"/>
               </children>
               <element xmi:type="uml:OpaqueAction" href="UML%20Diagram.uml#_OahdIMxfEfCJjtfnNERNag"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Oam8s8xfEfCJjtfnNERNag" x="54" y="75"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Oam8s8xfEfCJjtfnNERNag" x="55" y="72"/>
             </children>
             <children xmi:type="notation:Shape" xmi:id="_-zSeAMxoEfCJjtfnNERNag" type="OpaqueAction_Shape">
               <children xmi:type="notation:DecorationNode" xmi:id="_-zTFEMxoEfCJjtfnNERNag" type="OpaqueAction_NameLabel"/>
@@ -708,6 +708,43 @@
           </children>
           <element xmi:type="uml:ActivityFinalNode" href="UML%20Diagram.uml#_v4LVIMxeEfCJjtfnNERNag"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_v4SC0cxeEfCJjtfnNERNag" x="12" y="903"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_sSQ7gM1oEfCJjtfnNERNag" type="DecisionNode_Shape">
+          <children xmi:type="notation:DecorationNode" xmi:id="_sSQ7gs1oEfCJjtfnNERNag" type="DecisionNode_FloatingNameLabel">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_sSQ7g81oEfCJjtfnNERNag" y="15"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_sSQ7hM1oEfCJjtfnNERNag" type="DecisionNode_DecisionInputLabel">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_sSQ7hc1oEfCJjtfnNERNag" y="15"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_sSQ7hs1oEfCJjtfnNERNag" type="DecisionNode_StereotypeLabel">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_sSQ7h81oEfCJjtfnNERNag" y="15"/>
+          </children>
+          <element xmi:type="uml:DecisionNode" href="UML%20Diagram.uml#_sRth4M1oEfCJjtfnNERNag"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_sSQ7gc1oEfCJjtfnNERNag" x="955" y="160"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_sfJg8M1oEfCJjtfnNERNag" type="ActivityPartition_Shape">
+          <children xmi:type="notation:DecorationNode" xmi:id="_sfJg8s1oEfCJjtfnNERNag" type="ActivityPartition_NameLabel"/>
+          <children xmi:type="notation:DecorationNode" xmi:id="_sfJg881oEfCJjtfnNERNag" type="ActivityPartition_FloatingNameLabel">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_sfJg9M1oEfCJjtfnNERNag" y="15"/>
+          </children>
+          <children xmi:type="notation:BasicCompartment" xmi:id="_sfJg9c1oEfCJjtfnNERNag" type="ActivityPartition_ActivityNodeCompartment">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_sfJg9s1oEfCJjtfnNERNag"/>
+          </children>
+          <element xmi:type="uml:ActivityPartition" href="UML%20Diagram.uml#_se5CQM1oEfCJjtfnNERNag"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_sfJg8c1oEfCJjtfnNERNag" x="972" y="101"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_so0aUM1oEfCJjtfnNERNag" type="DecisionNode_Shape">
+          <children xmi:type="notation:DecorationNode" xmi:id="_so0aUs1oEfCJjtfnNERNag" type="DecisionNode_FloatingNameLabel">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_so0aU81oEfCJjtfnNERNag" y="15"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_so0aVM1oEfCJjtfnNERNag" type="DecisionNode_DecisionInputLabel">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_so0aVc1oEfCJjtfnNERNag" y="15"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_so0aVs1oEfCJjtfnNERNag" type="DecisionNode_StereotypeLabel">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_so0aV81oEfCJjtfnNERNag" y="15"/>
+          </children>
+          <element xmi:type="uml:DecisionNode" href="UML%20Diagram.uml#_sorQYM1oEfCJjtfnNERNag"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_so0aUc1oEfCJjtfnNERNag" x="968" y="59"/>
         </children>
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FNilscxeEfCJjtfnNERNag"/>
       </children>

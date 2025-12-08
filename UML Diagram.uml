@@ -146,7 +146,7 @@
       </inputValue>
     </node>
   </packagedElement>
-  <packagedElement xmi:type="uml:Activity" xmi:id="_CjnWAMxeEfCJjtfnNERNag" name="Manage Society Membership" node="_qWAtEMxeEfCJjtfnNERNag _v4LVIMxeEfCJjtfnNERNag _Bu6tMMxfEfCJjtfnNERNag _GgHyYMxfEfCJjtfnNERNag _OahdIMxfEfCJjtfnNERNag _2UO9IMxfEfCJjtfnNERNag _wOB-cMxgEfCJjtfnNERNag _GBR9cMxjEfCJjtfnNERNag _jp59QMxlEfCJjtfnNERNag _CA_QcMxmEfCJjtfnNERNag _FLzmoMxmEfCJjtfnNERNag _-zMXYMxoEfCJjtfnNERNag _I957EMxtEfCJjtfnNERNag _mFJXAMxtEfCJjtfnNERNag _clPRkMxuEfCJjtfnNERNag _g0m1AMxuEfCJjtfnNERNag _w2zGQMxuEfCJjtfnNERNag _cjTicMxvEfCJjtfnNERNag _m7s5oMxvEfCJjtfnNERNag _3rmlcMxvEfCJjtfnNERNag _bzYE4MxwEfCJjtfnNERNag _nIPrYMxwEfCJjtfnNERNag _FGirIMxxEfCJjtfnNERNag _Kx5rcMxxEfCJjtfnNERNag" group="_gVu68MxeEfCJjtfnNERNag _lZHVQMxeEfCJjtfnNERNag">
+  <packagedElement xmi:type="uml:Activity" xmi:id="_CjnWAMxeEfCJjtfnNERNag" name="Manage Society Membership" node="_qWAtEMxeEfCJjtfnNERNag _v4LVIMxeEfCJjtfnNERNag _Bu6tMMxfEfCJjtfnNERNag _GgHyYMxfEfCJjtfnNERNag _OahdIMxfEfCJjtfnNERNag _2UO9IMxfEfCJjtfnNERNag _wOB-cMxgEfCJjtfnNERNag _GBR9cMxjEfCJjtfnNERNag _jp59QMxlEfCJjtfnNERNag _CA_QcMxmEfCJjtfnNERNag _FLzmoMxmEfCJjtfnNERNag _-zMXYMxoEfCJjtfnNERNag _I957EMxtEfCJjtfnNERNag _mFJXAMxtEfCJjtfnNERNag _clPRkMxuEfCJjtfnNERNag _g0m1AMxuEfCJjtfnNERNag _w2zGQMxuEfCJjtfnNERNag _cjTicMxvEfCJjtfnNERNag _m7s5oMxvEfCJjtfnNERNag _3rmlcMxvEfCJjtfnNERNag _bzYE4MxwEfCJjtfnNERNag _nIPrYMxwEfCJjtfnNERNag _FGirIMxxEfCJjtfnNERNag _Kx5rcMxxEfCJjtfnNERNag _sRth4M1oEfCJjtfnNERNag _sorQYM1oEfCJjtfnNERNag" group="_gVu68MxeEfCJjtfnNERNag _lZHVQMxeEfCJjtfnNERNag _se5CQM1oEfCJjtfnNERNag">
     <edge xmi:type="uml:ControlFlow" xmi:id="_ElKhkMxfEfCJjtfnNERNag" target="_Bu6tMMxfEfCJjtfnNERNag" source="_qWAtEMxeEfCJjtfnNERNag"/>
     <edge xmi:type="uml:ControlFlow" xmi:id="_I47c0MxfEfCJjtfnNERNag" target="_GgHyYMxfEfCJjtfnNERNag" source="_Bu6tMMxfEfCJjtfnNERNag"/>
     <edge xmi:type="uml:ControlFlow" xmi:id="_RWEBMMxfEfCJjtfnNERNag" inPartition="_lZHVQMxeEfCJjtfnNERNag" target="_OahdIMxfEfCJjtfnNERNag" source="_GgHyYMxfEfCJjtfnNERNag"/>
@@ -175,6 +175,7 @@
     <edge xmi:type="uml:ControlFlow" xmi:id="_cdXAkMxxEfCJjtfnNERNag" target="_v4LVIMxeEfCJjtfnNERNag" source="_Kx5rcMxxEfCJjtfnNERNag"/>
     <group xmi:type="uml:ActivityPartition" xmi:id="_gVu68MxeEfCJjtfnNERNag" name="Society Leader" node="_Bu6tMMxfEfCJjtfnNERNag _2UO9IMxfEfCJjtfnNERNag _wOB-cMxgEfCJjtfnNERNag _GBR9cMxjEfCJjtfnNERNag _jp59QMxlEfCJjtfnNERNag _CA_QcMxmEfCJjtfnNERNag _FLzmoMxmEfCJjtfnNERNag _w2zGQMxuEfCJjtfnNERNag _cjTicMxvEfCJjtfnNERNag _m7s5oMxvEfCJjtfnNERNag _3rmlcMxvEfCJjtfnNERNag _bzYE4MxwEfCJjtfnNERNag _Kx5rcMxxEfCJjtfnNERNag" edge="_hBX0wMxlEfCJjtfnNERNag _IAQrQMxmEfCJjtfnNERNag _SbqTIMxmEfCJjtfnNERNag _y_XHgMxpEfCJjtfnNERNag _SdBBMMxqEfCJjtfnNERNag _fwpoMMxvEfCJjtfnNERNag _jMYvQMxvEfCJjtfnNERNag _rg_pwMxvEfCJjtfnNERNag _XW7uwMxwEfCJjtfnNERNag _fJE1YMxwEfCJjtfnNERNag _T1ADoMxxEfCJjtfnNERNag"/>
     <group xmi:type="uml:ActivityPartition" xmi:id="_lZHVQMxeEfCJjtfnNERNag" name="Society Leader App" node="_GgHyYMxfEfCJjtfnNERNag _OahdIMxfEfCJjtfnNERNag _-zMXYMxoEfCJjtfnNERNag _mFJXAMxtEfCJjtfnNERNag _clPRkMxuEfCJjtfnNERNag _g0m1AMxuEfCJjtfnNERNag _nIPrYMxwEfCJjtfnNERNag _FGirIMxxEfCJjtfnNERNag" edge="_RWEBMMxfEfCJjtfnNERNag _cloTIMxuEfCJjtfnNERNag _g1F9MMxuEfCJjtfnNERNag _ACRx8MxvEfCJjtfnNERNag _CQNpIMxvEfCJjtfnNERNag _JD-xEMxxEfCJjtfnNERNag"/>
+    <group xmi:type="uml:ActivityPartition" xmi:id="_se5CQM1oEfCJjtfnNERNag" name="ActivityPartition54"/>
     <node xmi:type="uml:InitialNode" xmi:id="_qWAtEMxeEfCJjtfnNERNag" name="" outgoing="_ElKhkMxfEfCJjtfnNERNag"/>
     <node xmi:type="uml:ActivityFinalNode" xmi:id="_v4LVIMxeEfCJjtfnNERNag" name="" incoming="_cdXAkMxxEfCJjtfnNERNag"/>
     <node xmi:type="uml:OpaqueAction" xmi:id="_Bu6tMMxfEfCJjtfnNERNag" name="Open manage membership" incoming="_ElKhkMxfEfCJjtfnNERNag" outgoing="_I47c0MxfEfCJjtfnNERNag" inPartition="_gVu68MxeEfCJjtfnNERNag"/>
@@ -201,5 +202,7 @@
     <node xmi:type="uml:OpaqueAction" xmi:id="_nIPrYMxwEfCJjtfnNERNag" name="Remove member from society " incoming="_scE8gMxwEfCJjtfnNERNag" outgoing="_JD-xEMxxEfCJjtfnNERNag" inPartition="_lZHVQMxeEfCJjtfnNERNag"/>
     <node xmi:type="uml:OpaqueAction" xmi:id="_FGirIMxxEfCJjtfnNERNag" name="Send removal notification" incoming="_JD-xEMxxEfCJjtfnNERNag" outgoing="_PZceUMxxEfCJjtfnNERNag" inPartition="_lZHVQMxeEfCJjtfnNERNag"/>
     <node xmi:type="uml:DecisionNode" xmi:id="_Kx5rcMxxEfCJjtfnNERNag" name="" incoming="_PZceUMxxEfCJjtfnNERNag _T1ADoMxxEfCJjtfnNERNag" outgoing="_cdXAkMxxEfCJjtfnNERNag" inPartition="_gVu68MxeEfCJjtfnNERNag"/>
+    <node xmi:type="uml:DecisionNode" xmi:id="_sRth4M1oEfCJjtfnNERNag" name="DecisionNode53"/>
+    <node xmi:type="uml:DecisionNode" xmi:id="_sorQYM1oEfCJjtfnNERNag" name="DecisionNode55"/>
   </packagedElement>
 </uml:Model>
