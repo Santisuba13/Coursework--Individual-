@@ -49,8 +49,22 @@ The database must handle long term storage of event records across multiple year
 
 
 WEEK 3- Use case design 
-- 
-
+- Check "Master" branch
 
 WEEK 4- Activity Diagram
-- 
+- Check "Master" branch
+
+WEEK 5- Consolidation
+- Check "Master" branch
+
+WEEK 6- Component Diagram
+- Check "Master" branch
+
+WEEK 7 - Finshing up component Diagram
+- Check "Master" branch
+
+WEEK 8- Class Diagram
+- Check "Master" branch
+
+WEEK 9- Sequence Diagram
+- Check "Master" branch
